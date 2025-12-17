@@ -1,0 +1,5 @@
+{
+  "name": "EduSurvey AI - 교육 만족도 집계 시스템",
+  "description": "PDF 또는 이미지 형태의 수기 교육 만족도 설문지를 AI로 분석하여 자동으로 집계하고 평균값을 도출하는 시각화 도구입니다.",
+  "requestFramePermissions": []
+}
